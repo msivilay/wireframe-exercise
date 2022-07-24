@@ -76,6 +76,8 @@ p {
   margin-bottom: 5px;
 }
 
+/* Source for invisible scroll: https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll */
+
 p::-webkit-scrollbar {
   display: none;
 }
